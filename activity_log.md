@@ -7,3 +7,4 @@
 - [2026-03-16T22:45:24Z] fix: handle null pointer exception
 - [2026-03-16T22:51:33Z] refactor: clean up unused imports
 - [2026-03-16T10:19:52Z] docs: update README with usage examples
+- [2026-03-16T17:13:52Z] test: add unit tests for core module

@@ -6,3 +6,4 @@
 - [2026-03-16T20:40:18Z] fix: resolve edge case in input validation
 - [2026-03-16T22:45:24Z] fix: handle null pointer exception
 - [2026-03-16T22:51:33Z] refactor: clean up unused imports
+- [2026-03-16T10:19:52Z] docs: update README with usage examples

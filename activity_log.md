@@ -4,3 +4,4 @@
 - [2026-03-13T22:54:10Z] feat: add helper utility function
 - [2026-03-13T14:15:30Z] chore: remove deprecated API calls
 - [2026-03-16T20:40:18Z] fix: resolve edge case in input validation
+- [2026-03-16T22:45:24Z] fix: handle null pointer exception

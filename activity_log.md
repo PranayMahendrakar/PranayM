@@ -8,3 +8,4 @@
 - [2026-03-16T22:51:33Z] refactor: clean up unused imports
 - [2026-03-16T10:19:52Z] docs: update README with usage examples
 - [2026-03-16T17:13:52Z] test: add unit tests for core module
+- [2026-03-16T16:57:38Z] perf: optimize loop for better performance
